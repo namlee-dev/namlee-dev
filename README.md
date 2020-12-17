@@ -1,4 +1,4 @@
-![cover](https://github.com/namlee-dev/namlee-dev/blob/main/images/namlee.png)
+![cover](https://github.com/namlee-dev/namlee-dev/blob/main/images/namlee-dev.png)
 
 <h1 align="center">Hi 👋, I'm Nam Lee</h1>
 <h3 align="center">👩‍💻 A fullstack web developer specialized in WordPress 🧶</h3>
