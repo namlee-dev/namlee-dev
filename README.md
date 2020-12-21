@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nam Lee</h1>
 <h3 align="center">👩‍💻 A fullstack web developer specialized in WordPress 🧶</h3>
 
-- 🔭 I’m currently working on [Calbar'Disk](http://18.212.73.95/projet-calbar-disk/)
+- 🔭 I’m currently working on [Mailles Nam](maillesnam.com) for a sock pattern generator
 
 - 👨‍💻 All of my projects are available at [namlee-dev.com](namlee-dev.com)
 
