@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nam Lee</h1>
 <h3 align="center">👩‍💻 A fullstack web developer specialized in WordPress 🧶</h3>
 
-- 🔭 I’m currently working on [Mailles Nam](maillesnam.com) for a sock pattern generator
+- 🔭 I’m currently working on [Mailles Nam](maillesnam.com) for a sock pattern generator and [Nam Lee](namlee-dev.com) for my portfolio
 
 - 👨‍💻 All of my projects are available at [namlee-dev.com](namlee-dev.com)
 
