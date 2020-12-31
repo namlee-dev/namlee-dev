@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Nam Lee</h1>
 <h3 align="center">👩‍💻 A fullstack web developer specialized in WordPress 🧶</h3>
 
-- 🔭 I’m currently working on [Mailles Nam](maillesnam.com) for a sock pattern generator and [Nam Lee](namlee-dev.com) for my portfolio
+- 🔭 I’m currently working on [Mailles Nam](https://maillesnam.com) for a sock pattern generator and [namlee-dev](https://namlee-dev.com) for my portfolio
 
-- 👨‍💻 All of my projects are available at [namlee-dev.com](namlee-dev.com)
+- 👨‍💻 All of my projects are available at [namlee-dev.com](https://portfolio.namlee-dev.com)
 
 - 📫 How to reach me **contact@namlee-dev.com**
 
