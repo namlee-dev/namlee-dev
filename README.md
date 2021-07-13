@@ -16,5 +16,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/namlee_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="namlee_dev" height="30" width="40" style="color:blue"/></a>
-<a href="https://linkedin.com/in/nam-lee-massenet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nam-lee-massenet" height="30" width="40" style="color:blue"/></a>
+<a href="https://linkedin.com/in/nam-lee-bounameaux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nam-lee-bounameaux" height="30" width="40" style="color:blue"/></a>
 </p>
